@@ -20,7 +20,7 @@ Retorna todos os UFs do Brasil
 
 getByUF
 ```
-apiexample.com/cities?=UF=SC
+apiexample.com/cities?UF=SC
 ```
 Retorna todas as cidades presentes em Santa Catarina
 
